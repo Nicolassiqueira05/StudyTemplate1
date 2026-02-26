@@ -1,0 +1,1 @@
+Site criado para a empresa Hiperfoco Transportes com o objetivo de ser uma landing page para receber e captar clientes com confiança e qualidade, opções de rastreamento e login para funcionários serão adicionados futuramente assim que requisitado.
