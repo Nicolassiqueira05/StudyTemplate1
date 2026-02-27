@@ -1307,7 +1307,12 @@ input:focus {
   }
 
   header .navbar {
-    margin: 10px 50px 0px;
+    display: flex;
+    justify-content: center;
+  }
+  header .navbar a {
+    display: flex;
+    justify-content: start;
   }
 }
 
@@ -1336,11 +1341,9 @@ input:focus {
   }
 
   header .navbar {
-    margin: 0;
-    padding: 0;
     height: 100%;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
   }
 
   header .navbar img {
