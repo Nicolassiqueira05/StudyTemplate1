@@ -296,7 +296,7 @@ header .navbar .nav-ativo::after {
 
 @media (max-width: 800px) {
 
-  .nav-list {
+  header .navbar .nav-list {
     position: absolute;
     top: 70px;
     right: 20px;
